@@ -1,7 +1,7 @@
 # Recursos — Neuroimágenes y señales cerebrales
 
 
-## Señales cerebrales (EEG/MEG/ECoG)
+## Señales cerebrales (EEG)
 
 
 ## MRI, fMRI y DTI
