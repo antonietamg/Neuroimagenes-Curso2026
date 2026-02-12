@@ -4,7 +4,7 @@
 ## Señales cerebrales (EEG)
 
 
-## MRI, fMRI y DTI
+## MRI, fMRI
 ### Libros / Capítulos
 - [MR Basics](https://drive.google.com/file/d/1MJYqj6H-AS-mqx9-M_eD_TIIdnI6kxCV/view?usp=sharing)
 - [Introducción Biofísica a IRM](https://drive.google.com/file/d/1RA0XOmV4X6rAvWAzCQ5IQ6RHONEAU_x7/view?usp=sharing)
